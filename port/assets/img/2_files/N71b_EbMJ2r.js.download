@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["AHaZa"]); }
+
+__d("XAYMTPostPickerController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/ads/growth/aymt/post_picker/",{page_id:{type:"FBID",required:!0}})}),null);

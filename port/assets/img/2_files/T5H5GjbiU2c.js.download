@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["YAqLP"]); }
+
+__d("QuickLogConfigHelper",["QuickLogConfig"],(function(a,b,c,d,e,f){a.prototype.getEventDetails=function(a){"use strict";var c=null;b("QuickLogConfig").qpl_events?c=b("QuickLogConfig").qpl_events[a]:b("QuickLogConfig").qpl_events_static&&(c=b("QuickLogConfig").qpl_events_static[a]);return c};function a(){"use strict"}e.exports=new a()}),null);
